@@ -8,3 +8,5 @@ materials.
 
 Follow along the order of folders given below:
 - Tensor Introduction
+- Numeric Types
+- Real World Data
