@@ -7,4 +7,4 @@ Outputs were saved alond the codes with details codes I added for clarity includ
 materials. 
 
 Follow along the order of folders given below:
-- Tensor
+- Tensor Introduction
