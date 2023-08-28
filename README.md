@@ -11,3 +11,5 @@ Follow along the order of folders given below:
 - Numeric Types
 - Real World Data
 - Mechanics of Learning
+- NeuralNetwork
+  
